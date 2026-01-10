@@ -43,10 +43,10 @@
 ### 🏢 Career Journey
 
 - **CTO** @ [Splash Music](https://randeepbhatia.com/work)
-- **Director of Engineering** @ Audible (Amazon)
+- **Sr. Director of Engineering** @ Audible (Amazon)
 - **Head of Music Engineering** @ Twitch (Amazon)
 - **Engineering Lead** @ EA Games
-- **Director** @ Code for BC
+- **Board of Director** @ Code for BC
 - **Advisor** @ 10+ Startups
 
 </td>
