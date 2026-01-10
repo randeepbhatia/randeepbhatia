@@ -139,8 +139,8 @@ Available for:
 
 ## 📊 GitHub Stats
 
-![Randeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=randeepbhatia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randeepbhatia&layout=compact&theme=radical)
+![Randeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randeepbhatia&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randeepbhatia&layout=compact)
 
 ---
 
