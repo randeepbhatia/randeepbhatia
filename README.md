@@ -123,15 +123,15 @@ ML prediction models for streaming<br/>
 
 ## 📚 600+ Free AI Resources
 
-I publish free content **every weekday** to help you master AI:
+Access comprehensive AI resources to help you master production AI systems:
 
-| Day | Content | Latest |
-|-----|---------|--------|
-| 🌙 **Monday** | [AI Insights](https://randeepbhatia.com/insights) | Prompts & strategies that actually work |
-| 🔧 **Tuesday** | [AI Tools](https://randeepbhatia.com/ai-tools) | Production-ready automation blueprints |
-| 🚀 **Wednesday** | [Career Journeys](https://randeepbhatia.com/ai-journeys) | Role transformation guides |
-| 🏗️ **Thursday** | [Architecture](https://randeepbhatia.com/ai-architecture) | System design patterns for production |
-| 🎮 **Friday** | [Live Demos](https://randeepbhatia.com/demos) | Interactive AI experiences |
+| Content | Description |
+|---------|-------------|
+| 🌙 [AI Insights](https://randeepbhatia.com/insights) | Prompts & strategies that actually work |
+| 🔧 [AI Tools](https://randeepbhatia.com/ai-tools) | Production-ready automation blueprints |
+| 🚀 [Career Journeys](https://randeepbhatia.com/ai-journeys) | Role transformation guides |
+| 🏗️ [Architecture](https://randeepbhatia.com/ai-architecture) | System design patterns for production |
+| 🎮 [Live Demos](https://randeepbhatia.com/demos) | Interactive AI experiences |
 
 <p align="center">
   <a href="https://randeepbhatia.com/articles">
