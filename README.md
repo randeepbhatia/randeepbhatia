@@ -129,12 +129,12 @@ I publish free content **every weekday** to help you master AI:
 |-----|---------|--------|
 | 🌙 **Monday** | [AI Insights](https://randeepbhatia.com/insights) | Prompts & strategies that actually work |
 | 🔧 **Tuesday** | [AI Tools](https://randeepbhatia.com/ai-tools) | Production-ready automation blueprints |
-| 🚀 **Wednesday** | [Career Journeys](https://randeepbhatia.com/ai-journey) | Role transformation guides |
+| 🚀 **Wednesday** | [Career Journeys](https://randeepbhatia.com/ai-journeys) | Role transformation guides |
 | 🏗️ **Thursday** | [Architecture](https://randeepbhatia.com/ai-architecture) | System design patterns for production |
-| 🎮 **Friday** | [Live Demos](https://randeepbhatia.com/demo) | Interactive AI experiences |
+| 🎮 **Friday** | [Live Demos](https://randeepbhatia.com/demos) | Interactive AI experiences |
 
 <p align="center">
-  <a href="https://randeepbhatia.com/releases">
+  <a href="https://randeepbhatia.com/articles">
     <img src="https://img.shields.io/badge/📅_Browse_Full_Archive-What's_New-667eea?style=for-the-badge"/>
   </a>
 </p>
@@ -143,12 +143,12 @@ I publish free content **every weekday** to help you master AI:
 
 | Type | Title | Link |
 |------|-------|------|
-| 🎮 Demo | Brand Storytelling AI - 4 Interactive Architectures | [Try Demo →](https://randeepbhatia.com/demo/brand-storytelling-demo) |
+| 🎮 Demo | Brand Storytelling AI - 4 Interactive Architectures | [Try Demo →](https://randeepbhatia.com/demos/brand-storytelling-demo) |
 | 🏗️ Architecture | Brand Storytelling System - Scale to 10K | [Read →](https://randeepbhatia.com/ai-architecture/brand-storytelling-system) |
-| 🚀 Journey | Marketing Team Workflows Guide | [Explore →](https://randeepbhatia.com/ai-journey/brand-storytelling-roles) |
+| 🚀 Journey | Marketing Team Workflows Guide | [Explore →](https://randeepbhatia.com/ai-journeys/brand-storytelling-roles) |
 | 🔧 Tool | Marketing Automation at Scale | [Learn →](https://randeepbhatia.com/ai-tools/brand-storytelling-automation) |
 | 🌙 Insight | Master Brand Storytelling | [Read →](https://randeepbhatia.com/insights/brand-storytelling) |
-| 🎮 Demo | Credit Risk AI - 4 Architectures Live | [Try Demo →](https://randeepbhatia.com/demo/credit-risk-modeling-demo) |
+| 🎮 Demo | Credit Risk AI - 4 Architectures Live | [Try Demo →](https://randeepbhatia.com/demos/credit-risk-modeling-demo) |
 
 ---
 
@@ -205,7 +205,7 @@ Comprehensive courses designed for depth, not speed:
 | Llama 3.1 405B | Meta | $0.80 | ⭐⭐⭐⭐ |
 
 <p align="center">
-  <a href="https://randeepbhatia.com/ai-models">
+  <a href="https://randeepbhatia.com/model-details">
     <img src="https://img.shields.io/badge/🤖_Compare_100%2B_Models-AI_Models_Database-667eea?style=for-the-badge"/>
   </a>
 </p>
@@ -227,7 +227,7 @@ Comprehensive courses designed for depth, not speed:
 - ✅ **2PB data migration** to Amazon S3
 
 <p align="center">
-  <a href="https://randeepbhatia.com/watch/trainium-vs-h100">
+  <a href="https://randeepbhatia.com/watch/trainium">
     <img src="https://img.shields.io/badge/🎥_Watch_Technical_Deep_Dive-YouTube-FF0000?style=for-the-badge&logo=youtube"/>
   </a>
   <a href="https://aws.amazon.com/solutions/case-studies/splash-music-case-study/">
@@ -243,11 +243,11 @@ Comprehensive courses designed for depth, not speed:
 
 | Event | Topic | Link |
 |-------|-------|------|
-| **AWS re:Invent 2025** | End-to-End Foundation Model Lifecycle on Trainium | [Watch →](https://randeepbhatia.com/watch/trainium-vs-h100) |
-| **AWS Summit Sydney 2025** | Main Stage Opening Keynote | [Watch →](https://randeepbhatia.com/watch/aws-keynote) |
-| **E3 Expo** | Gaming Innovation Panel | [Media →](https://randeepbhatia.com/media) |
-| **UC Berkeley** | 5 Panels (2015-2018) | [About →](https://randeepbhatia.com/about) |
-| **Google Cloud** | Technical Workshop | [Watch →](https://randeepbhatia.com/watch/workshop-cloud-architecture) |
+| **AWS re:Invent 2025** | End-to-End Foundation Model Lifecycle on Trainium | [Watch →](https://randeepbhatia.com/watch/reinvent) |
+| **AWS Summit Sydney 2025** | Main Stage Opening Keynote | [Watch →](https://randeepbhatia.com/watch/sydney-keynote) |
+| **E3 Expo** | Gaming Innovation Panel | [Media →](https://randeepbhatia.com/work) |
+| **UC Berkeley** | 5 Panels (2015-2018) | [About →](https://randeepbhatia.com) |
+| **Google Cloud** | Technical Workshop | [Watch →](https://randeepbhatia.com/watch/workshop) |
 
 ### Press & Features
 
@@ -259,10 +259,10 @@ Comprehensive courses designed for depth, not speed:
 | **AWS Case Studies** | [Reducing training time and costs by 50% with Splash Music](https://aws.amazon.com/solutions/case-studies/splash-music-case-study/) |
 
 <p align="center">
-  <a href="https://randeepbhatia.com/media">
+  <a href="https://randeepbhatia.com/work">
     <img src="https://img.shields.io/badge/📸_Photos_&_Videos-Media_Gallery-667eea?style=for-the-badge"/>
   </a>
-  <a href="https://randeepbhatia.com/speaking">
+  <a href="https://randeepbhatia.com/work">
     <img src="https://img.shields.io/badge/🎤_Speaking_Engagements-100%2B_Talks-764ba2?style=for-the-badge"/>
   </a>
 </p>
@@ -291,17 +291,17 @@ Comprehensive courses designed for depth, not speed:
 ## 🤝 Work With Me
 
 <p align="center">
-  <a href="https://randeepbhatia.com/contact#consulting">
+  <a href="https://randeepbhatia.com/contact">
     <img src="https://img.shields.io/badge/💼_AI_Consulting-Strategy_Sprints_&_Prototyping-667eea?style=for-the-badge"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://randeepbhatia.com/contact#speaking">
+  <a href="https://randeepbhatia.com/contact">
     <img src="https://img.shields.io/badge/🎤_Speaking-Keynotes_&_Workshops-764ba2?style=for-the-badge"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://randeepbhatia.com/contact#mentoring">
+  <a href="https://randeepbhatia.com/contact">
     <img src="https://img.shields.io/badge/🧭_Mentoring-1_on_1_Sessions-00d4aa?style=for-the-badge"/>
   </a>
 </p>
@@ -312,30 +312,27 @@ Comprehensive courses designed for depth, not speed:
 
 ### Main Pages
 - 🏠 [Home](https://randeepbhatia.com)
-- 👤 [About](https://randeepbhatia.com/about)
 - 💼 [Work & Case Studies](https://randeepbhatia.com/work)
-- 🎤 [Speaking](https://randeepbhatia.com/speaking)
-- 📸 [Media Gallery](https://randeepbhatia.com/media)
 - 📞 [Contact](https://randeepbhatia.com/contact)
 
 ### Resources
-- 📅 [What's New / Releases](https://randeepbhatia.com/releases)
+- 📅 [What's New / Releases](https://randeepbhatia.com/articles)
 - 🌙 [AI Insights (Monday)](https://randeepbhatia.com/insights)
 - 🔧 [AI Tools (Tuesday)](https://randeepbhatia.com/ai-tools)
-- 🚀 [Career Journeys (Wednesday)](https://randeepbhatia.com/ai-journey)
+- 🚀 [Career Journeys (Wednesday)](https://randeepbhatia.com/ai-journeys)
 - 🏗️ [Architecture (Thursday)](https://randeepbhatia.com/ai-architecture)
-- 🎮 [Live Demos (Friday)](https://randeepbhatia.com/demo)
+- 🎮 [Live Demos (Friday)](https://randeepbhatia.com/demos)
 - 📚 [Reference Library](https://randeepbhatia.com/reference)
-- 🤖 [AI Models Database](https://randeepbhatia.com/ai-models)
+- 🤖 [AI Models Database](https://randeepbhatia.com/model-details)
 - 🎓 [Courses](https://randeepbhatia.com/courses)
 
 ### Featured Content
-- 🎥 [AWS Trainium vs H100 Video](https://randeepbhatia.com/watch/trainium-vs-h100)
-- 🎥 [AWS Summit Keynote](https://randeepbhatia.com/watch/aws-keynote)
-- 🎥 [Cloud Architecture Workshop](https://randeepbhatia.com/watch/workshop-cloud-architecture)
-- 📝 [Pipeline Forecasting Insight](https://randeepbhatia.com/insights/pipeline-forecasting)
-- 🎮 [Brand Storytelling Demo](https://randeepbhatia.com/demo/brand-storytelling-demo)
-- 🎮 [Credit Risk AI Demo](https://randeepbhatia.com/demo/credit-risk-modeling-demo)
+- 🎥 [AWS Trainium vs H100 Video](https://randeepbhatia.com/watch/trainium)
+- 🎥 [AWS Summit Keynote](https://randeepbhatia.com/watch/sydney-keynote)
+- 🎥 [AWS re:Invent Keynote](https://randeepbhatia.com/watch/reinvent)
+- 🎥 [Cloud Architecture Workshop](https://randeepbhatia.com/watch/workshop)
+- 🎮 [Brand Storytelling Demo](https://randeepbhatia.com/demos/brand-storytelling-demo)
+- 🎮 [Credit Risk AI Demo](https://randeepbhatia.com/demos/credit-risk-modeling-demo)
 
 ---
 
